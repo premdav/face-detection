@@ -1,3 +1,8 @@
+## Face Detection Web App
+This project is a face detecting web app built with React and Node.js
+It utilized a face recognition API to determine faces in images provided by the user.
+There is a leaderboard/ranking system that gives you a rank based on the number of images/faces detected you contribute to the app.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
